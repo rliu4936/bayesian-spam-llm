@@ -1,0 +1,13 @@
+*__pycache__
+checkpoints/
+.DS_Store
+*html
+cache/
+SmolLM2-135M-Instruct/
+*.egg-info/
+.venv/
+.uv_cache/
+wandb/
+released_dataset/
+bayes_inverse_probs*
+autograder/
